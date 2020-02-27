@@ -1,5 +1,0 @@
-.env/
-.venv/
-.cache.sqlite
-node_modules/
-.envrc
